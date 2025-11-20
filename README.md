@@ -19,3 +19,5 @@ Tableau Visualizations - The Tableau workbook (London Bike Rides Analysis.twbx) 
 5. Weather — Relationship between weather conditions and total rides
 
 These visualizations highlight how time, seasonality, and weather influence London’s bike-sharing usage.
+
+The original dataset (london_merged.csv) has been included, along with the cleaned dataset (london_bikes.xlsx). 
