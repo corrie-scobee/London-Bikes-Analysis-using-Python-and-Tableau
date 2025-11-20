@@ -2,8 +2,7 @@ London Bike Rides Analysis
 
 This project analyzes the London Bike Sharing dataset using Python and Tableau to explore trends in ride volume, weather patterns, and time-based usage behaviors.
 
-Python Data Preparation
-  The Jupyter notebook (LondonBikes.ipynb) handles all preprocessing steps, including:
+Python Data Preparation - The Jupyter notebook (LondonBikes.ipynb) handles all preprocessing steps, including:
 
 1. Importing and inspecting the raw dataset
 2. Renaming and cleaning columns for clarity
@@ -11,8 +10,7 @@ Python Data Preparation
 4. Replacing numeric season codes with readable labels
 
 
-Tableau Visualizations
-  The Tableau workbook (London Bike Rides Analysis.twbx) uses the cleaned dataset to visualize key insights across five worksheets:
+Tableau Visualizations - The Tableau workbook (London Bike Rides Analysis.twbx) uses the cleaned dataset to visualize key insights across five worksheets:
 
 1. Total Rides — Overall ride volume and high-level trends
 2. Hour — Distribution of rides by hour of day
