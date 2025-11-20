@@ -5,10 +5,10 @@ This project analyzes the London Bike Sharing dataset using Python and Tableau t
 Python Data Preparation
 The Jupyter notebook (LondonBikes.ipynb) handles all preprocessing steps, including:
 
-Importing and inspecting the raw dataset
-Renaming and cleaning columns for clarity
-Converting units (e.g., humidity to percentages)
-Replacing numeric season codes with readable labels
+1. Importing and inspecting the raw dataset
+2. Renaming and cleaning columns for clarity
+3. Converting units (e.g., humidity to percentages)
+4. Replacing numeric season codes with readable labels
 
 
 Tableau Visualizations
